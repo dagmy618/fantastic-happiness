@@ -1,37 +1,49 @@
-## Welcome to GitHub Pages
+## Welcome to DAGM's MIND
 
-You can use the [editor on GitHub](https://github.com/dagmy618/fantastic-happiness/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+You can use the [fiverr website](https://www.fiverr.com/dagm_yosef) to order any type of jobs you want to get done starting from 15$
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+And we can work together to make what your thinking of to possiblity.
 
-### Markdown
+### what services I provide
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+social media management
+- instagram
+- tiktok
+- facebook
+- linkedin
+SEO
+social media content creation
+video editing
+whiteboard animation
+Social Media Marketing
+Social Media Advertising
+Search Engine Optimization (SEO)
+Local SEO
+Marketing Strategy
+Public Relations
+Content Marketing
+Video Marketing
+Email Marketing
+Web Analytics
+Text Message Marketing
+Search Engine Marketing (SEM)
+Display Advertising NEW
+E-Commerce Marketing
+Influencer Marketing
+Community Management
+Mobile App Marketing
+Music Promotion
+Book & eBook Marketing
+Affiliate Marketing
+Podcast Marketing
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+For more details check out my [fiverr account](https://www.fiverr.com/dagm_yosef).
 
-### Jekyll Themes
+```markdown
+     Support or Contact
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dagmy618/fantastic-happiness/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Having trouble with Pages? Check out my fiverr to know me better
+```
